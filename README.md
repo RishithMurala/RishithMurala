@@ -21,4 +21,4 @@ I'm a Computer Science graduate working in Production Support, with experience s
 Coming soon...
 
 ### 📫 Connect With Me
-- LinkedIn: [My LinkedIn](YOUR_LINKEDIN_URL)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/rishith-murala/)
